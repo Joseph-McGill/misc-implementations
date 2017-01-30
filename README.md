@@ -6,4 +6,4 @@ Data Structures:
 * [String (C++)](../master/c++/string)
 
 Algorithms:
-* [Brent's cycle detection algorithm (Python)](,,/master/python/brents_algorithm)
+* [Brent's cycle detection algorithm (Python)](../master/python/brents_algorithm)
